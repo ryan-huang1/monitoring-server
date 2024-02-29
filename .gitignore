@@ -1,0 +1,24 @@
+# Flask project specific files
+*.pyc
+*.pyo
+*.pyd
+*.pyd$/
+*.so
+
+# Cache specific files
+**/pycache/
+
+# Flask env virtual environment
+venv/
+
+# Flask instance folder
+instance/
+
+# Flask migration scripts
+migrations/
+
+# Flask static files
+static/
+
+# Flask logs
+logs/
