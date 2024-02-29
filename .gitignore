@@ -4,6 +4,7 @@
 *.pyd
 *.pyd$/
 *.so
+*.crt
 
 # Cache specific files
 **/pycache/
